@@ -1,1 +1,3 @@
-# sweeps
+# Sweeps
+
+Simple Evo sweeps program
